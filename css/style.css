@@ -1,0 +1,31 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Bebas Neue', cursive;
+}
+
+#header {
+    background-color: #FFF9F4;
+}
+
+.banner-heading {
+    font-size: 80px;
+    color: #363958;
+    margin-bottom: -20px;
+}
+
+.banner-text {
+    color: #3E3E3E;
+}
+
+.banner-heading span {
+    color: #FA804C;
+}
+
+.banner-content button{
+    background-image: linear-gradient(#3D4FF3
+    100%, #3543BC 100%);
+}
