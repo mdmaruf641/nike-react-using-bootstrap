@@ -7,6 +7,13 @@ h6 {
     font-family: 'Bebas Neue', cursive;
 }
 
+p{
+    font-family: 'Roboto', sans-serif;
+}
+a{
+    text-decoration: none;
+}
+
 #header {
     background-color: #FFF9F4;
 }
@@ -25,7 +32,21 @@ h6 {
     color: #FA804C;
 }
 
-.banner-content button{
+.custom-btn{
     background-image: linear-gradient(#3D4FF3
     100%, #3543BC 100%);
+}
+
+.card-img{
+    background-color: #F1F1F1
+    ;
+}
+
+.card-title{
+    color: #363958
+    ;
+}
+
+.card-amount{
+    color: #FA804C;
 }
